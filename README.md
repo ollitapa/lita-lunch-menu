@@ -1,7 +1,7 @@
 # lita-lunch-menu
 
-[![Build Status](https://travis-ci.org/ollitapa@gmail.com/lita-lunch-menu.png?branch=master)](https://travis-ci.org/ollitapa@gmail.com/lita-lunch-menu)
-[![Coverage Status](https://coveralls.io/repos/ollitapa@gmail.com/lita-lunch-menu/badge.png)](https://coveralls.io/r/ollitapa@gmail.com/lita-lunch-menu)
+[![Build Status](https://travis-ci.org/ollitapa/lita-lunch-menu.png?branch=master)](https://travis-ci.org/ollitapa/lita-lunch-menu)
+[![Coverage Status](https://coveralls.io/repos/ollitapa/lita-lunch-menu/badge.png)](https://coveralls.io/r/ollitapa/lita-lunch-menu)
 
 TODO: Add a description of the plugin.
 
